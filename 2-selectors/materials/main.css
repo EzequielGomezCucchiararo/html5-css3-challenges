@@ -1,0 +1,20 @@
+h1, h2  {
+  color: #215d12;
+}
+
+strong {
+  color: #f9ae49;
+}
+
+em {
+  color: #f9bd98; 
+}
+
+td {
+  color: #895d93;
+}
+
+select[name="location"] {
+  border: 1px solid black;
+  border-radius: 5px;
+}
